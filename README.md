@@ -1,2 +1,3 @@
-LeetCode Solutions
-Collection of my leetcode solutions,these can be pushed here using the leethub chrome extension.
+#LeetCode Solutions
+
+Collection of my leetcode solutions, these can be pushed here from leetcode using the leethub chrome extension.

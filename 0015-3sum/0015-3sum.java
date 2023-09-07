@@ -7,11 +7,10 @@ class Solution {
             if(i>0 && nums[i]==nums[i-1]){
                 continue;
             }
-            int target = -nums[i];
             int j=i+1;
             int k=n-1;
             while(j<k){
-                if(nums[j]+nums[k]==target){
+                if(nums[j]+nums[k]==-nums[i]){
                     List<Integer> curr = new ArrayList<>();
                     curr.add(nums[i]);
                     curr.add(nums[j]);
@@ -29,7 +28,7 @@ class Solution {
                     k--;
 
                 }
-                else if(nums[j]+nums[k]<target){
+                else if(nums[j]+nums[k]< -nums[i]){
                     j++;
                 }
                 else{

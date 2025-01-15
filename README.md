@@ -39,6 +39,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |
@@ -51,5 +52,6 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->

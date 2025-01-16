@@ -60,4 +60,8 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->

@@ -21,6 +21,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0952-word-subsets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0952-word-subsets) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -66,4 +67,24 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [1827-invalid-tweets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1827-invalid-tweets) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Graph
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 <!---LeetCode Topics End-->

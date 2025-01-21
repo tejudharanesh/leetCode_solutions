@@ -20,6 +20,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -35,6 +36,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -49,6 +51,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -94,4 +97,12 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

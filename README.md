@@ -24,6 +24,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | [0407-trapping-rain-water-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -92,6 +93,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2145-grid-game](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
 ## Shortest Path
 |  |
@@ -105,4 +107,8 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [2145-grid-game](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2145-grid-game) |
 <!---LeetCode Topics End-->

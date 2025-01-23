@@ -23,6 +23,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0952-word-subsets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0952-word-subsets) |
+| [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2145-grid-game) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -53,6 +54,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
+| [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
@@ -78,6 +80,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -92,6 +95,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
+| [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2145-grid-game](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -111,4 +115,12 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [2145-grid-game](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2145-grid-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |
+## Union Find
+|  |
+| ------- |
+| [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |
 <!---LeetCode Topics End-->

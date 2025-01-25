@@ -31,6 +31,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | [2685-first-completely-painted-row-or-column](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## String Matching
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,6 +128,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Topological Sort
 |  |
 | ------- |

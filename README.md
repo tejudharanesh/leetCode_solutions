@@ -89,6 +89,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -124,6 +125,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Union Find
 |  |
 | ------- |
@@ -133,4 +135,5 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0820-find-eventual-safe-states) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->

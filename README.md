@@ -13,6 +13,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0952-word-subsets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0952-word-subsets) |
@@ -141,4 +142,8 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

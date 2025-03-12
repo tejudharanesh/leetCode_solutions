@@ -149,4 +149,12 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

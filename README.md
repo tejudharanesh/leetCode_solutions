@@ -37,6 +37,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3324-split-the-array](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3324-split-the-array) |
 ## String Matching
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | [1502-construct-k-palindrome-strings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3324-split-the-array](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Greedy
 |  |
@@ -63,6 +65,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 | [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [3324-split-the-array](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/tejudharanesh/leetCode_solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Stack
 |  |

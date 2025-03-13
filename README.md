@@ -70,6 +70,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0155-min-stack) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Bit Manipulation
 |  |
@@ -157,4 +158,8 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

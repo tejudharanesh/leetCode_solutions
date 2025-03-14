@@ -162,4 +162,12 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0155-min-stack) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

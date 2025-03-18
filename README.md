@@ -24,6 +24,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 | [0407-trapping-rain-water-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -46,6 +47,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |

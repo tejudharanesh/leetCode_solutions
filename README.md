@@ -8,6 +8,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
@@ -25,6 +26,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
@@ -73,6 +75,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0155-min-stack) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Bit Manipulation
@@ -176,5 +179,10 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

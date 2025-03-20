@@ -16,6 +16,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0127-word-ladder](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0952-word-subsets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -52,6 +53,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0001-two-sum) |
+| [0127-word-ladder](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 | [0952-word-subsets](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -97,6 +99,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0127-word-ladder) |
 | [0407-trapping-rain-water-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0820-find-eventual-safe-states](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0820-find-eventual-safe-states) |
 | [1396-count-servers-that-communicate](https://github.com/tejudharanesh/leetCode_solutions/tree/master/1396-count-servers-that-communicate) |

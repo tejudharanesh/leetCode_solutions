@@ -175,6 +175,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0069-sqrtx) |
 ## Binary Search
 |  |

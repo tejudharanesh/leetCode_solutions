@@ -16,6 +16,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0127-word-ladder) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -80,6 +81,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0155-min-stack) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |

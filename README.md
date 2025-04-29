@@ -33,6 +33,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0198-house-robber) |
 | [0407-trapping-rain-water-ii](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0407-trapping-rain-water-ii) |
@@ -88,6 +89,7 @@ Collection of leetcode solutions, these can be pushed here from leetcode dashboa
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/tejudharanesh/leetCode_solutions/tree/master/0136-single-number) |
 | [2509-minimize-xor](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/tejudharanesh/leetCode_solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
